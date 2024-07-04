@@ -1,0 +1,26 @@
+{
+	"name": "photo-editor",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "nodemon ./src/app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"axios": "^1.7.2",
+		"cloudinary": "^2.2.0",
+		"dotenv": "^16.4.5",
+		"express": "^4.19.2",
+		"mime": "^4.0.3",
+		"mime-types": "^2.1.35",
+		"multer": "^1.4.5-lts.1"
+	},
+	"devDependencies": {
+		"@types/mime-types": "^2.1.4",
+		"nodemon": "^3.1.4"
+	}
+}
