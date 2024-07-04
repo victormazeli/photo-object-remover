@@ -1,0 +1,6 @@
+PORT=3001
+PHOTAI_API_KEY=6686d3aaba733962ae368c63_2dd44e7138dfffab74a6_apyhitools
+PHOTAI_API_URL=https://prodapi.phot.ai/external/api/v2/user_activity/object-replacer
+CLOUDINARY_CLOUD_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
